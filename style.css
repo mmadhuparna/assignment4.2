@@ -1,7 +1,6 @@
 /*defining border bottom to all the elements*/
 
 *{
-   border-bottom-width: 1px;
-    border-bottom-style: solid;
-    border-bottom-color: black;
+   border-bottom: 1px solid  black
+     
 }
